@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin:admin@todoapp.uinrd.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "gfhguvjhnbvngjn3#bujk"
+}
